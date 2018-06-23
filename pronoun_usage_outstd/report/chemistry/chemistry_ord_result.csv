@@ -1,0 +1,12 @@
+category 1; category 2; p-value; effect-size 1-2 ; effect-size 2-1 
+ she_he  ;  i ; < 0.01 ;  0.22 ;  0.78  
+ they  ;  i ; < 0.01 ;  0.25 ;  0.75  
+ we  ;  i ; < 0.01 ;  0.3 ;  0.7  
+ you  ;  i ; < 0.01 ;  0.34 ;  0.66  
+ they  ;  she_he ;  0.0212 ;  0.54 ;  0.46  
+ we  ;  she_he ; < 0.01 ;  0.59 ;  0.41  
+ you  ;  she_he ; < 0.01 ;  0.63 ;  0.37  
+ we  ;  they ; < 0.01 ;  0.55 ;  0.45  
+ you  ;  they ; < 0.01 ;  0.59 ;  0.41  
+ you  ;  we ; < 0.01 ;  0.54 ;  0.46  
+

@@ -1,0 +1,8 @@
+category 1; category 2; p-value; effect-size 1-2 ; effect-size 2-1 
+ top_10_15  ;  ordinary ; invalid ;  0.52 ;  0.48  
+ top_5  ;  ordinary ; < 0.01 ;  0.46 ;  0.54  
+ top_5_10  ;  ordinary ; invalid ;  0.52 ;  0.48  
+ top_5  ;  top_10_15 ; < 0.01 ;  0.34 ;  0.66  
+ top_5_10  ;  top_10_15 ; invalid ;  0.48 ;  0.52  
+ top_5_10  ;  top_5 ; < 0.01 ;  0.7 ;  0.3  
+

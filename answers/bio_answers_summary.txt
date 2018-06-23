@@ -1,0 +1,22 @@
+\begin{table}
+\caption{Number of Answers}
+\label{num-ans-dist}
+\begin{tabular}{cclllll} 
+ \toprule
+    Category & Min. & 1st Qu. & Median & Mean & 3rd Qu. & Max. \\ 
+ \midrule
+    
+ top 5 & 0 & 4 & 11 & 31.43 & 30 & 735 \\ 
+ top 5 10 & 0 & 0 & 1 & 2.04 & 3 & 18 \\ 
+ top 10 15 & 0 & 0 & 0 & 1.16 & 2 & 14 \\ 
+ top 15 20 & 0 & 0 & 0 & 0.65 & 1 & 11 \\ 
+ top 20 25 & 0 & 0 & 0 & 0.39 & 0 & 7 \\ 
+ top 25 30 & 0 & 0 & 0 & 0.33 & 0 & 8 \\ 
+ top 30 35 & 0 & 0 & 0 & 0.25 & 0 & 7 \\ 
+ top 35 40 & 0 & 0 & 0 & 0.11 & 0 & 11 \\ 
+ top 40 45 & 0 & 0 & 0 & 0.08 & 0 & 9 \\ 
+ top 45 50 & 0 & 0 & 0 & 0.42 & 0 & 12 \\ 
+ top 50 100 & 0 & 0 & 0 & 0.35 & 1 & 7 \\ 
+  \bottomrule
+\end{tabular}
+\end{table}
