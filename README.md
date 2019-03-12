@@ -17,5 +17,5 @@ First, read the paper and then follow the instructions below.
 ### How did you generate the csv files used in R scripts?
 
 We execute several SQL commands in PostgresQL in order to extract the csv contents.
-Each analysis provided in this GiHub repository contains the SQLs which we used to generate the csv and the R Script as well.
+Each analysis provided in this GitHub repository contains the SQLs which we used to generate the csv and the R Script as well.
 
