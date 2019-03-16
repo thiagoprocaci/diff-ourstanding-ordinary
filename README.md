@@ -7,7 +7,7 @@ In other words, you will find here everything you need to reproduce this researc
 First, read the paper and then follow the instructions below.
 
 ## Environment
-- R version 3.2.2 (available at https://www.r-project.org/)
+- R version 3.4.2 (available at https://www.r-project.org/)
 - PostgresSQL database version 9.5 (available at http://dev.mysql.com/downloads/)
 - Ubuntu version 16.04.4 LTS
 
